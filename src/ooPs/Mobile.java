@@ -3,7 +3,7 @@ package ooPs;
 public class Mobile {
 
     String brand;
-    int price =1000;
+    int price =10000;
 
     Mobile() {
         brand = "Samsung";
